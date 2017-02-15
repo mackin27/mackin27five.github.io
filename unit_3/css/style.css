@@ -19,6 +19,11 @@ img {
 }
 
 #slogan{
-	color: #560000;
+	color: #800000;
 	font-weight: bold;
+}
+
+h2{
+	font-stretch: ultra-expanded;
+
 }
