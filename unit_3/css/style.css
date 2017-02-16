@@ -41,14 +41,14 @@ figcaption{
 }
 
 .left{
-	width: 48%;
+	width: 40%;
 	background-color: #00ffff;
 	display: inline-block;
 	float: left;
 }
 
 .right{
-	width: 48%
+	width: 40%
 	background-color: #00ffff;
 	display:inline-block;
 	float:right;
