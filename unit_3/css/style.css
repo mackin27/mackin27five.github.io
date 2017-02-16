@@ -41,13 +41,15 @@ figcaption{
 }
 
 .left{
-	column-width: 48%;
+	width: 48%;
+	background-color: #00ffff;
 	display: inline-block;
 	float: left;
 }
 
 .right{
-	column-width: 48%
+	width: 48%
+	background-color: #00ffff;
 	display:inline-block;
 	float:right;
 }
