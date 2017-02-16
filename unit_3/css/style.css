@@ -50,6 +50,6 @@ figcaption{
 .right{
 	width: 40%
 	background-color: #00ffff;
-	display:inline-block;
-	float:right;
+	display:  inline-block;
+	float: right;
 }
