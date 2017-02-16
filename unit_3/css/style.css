@@ -49,14 +49,14 @@ h3{
 
 .left{
 	width: 40%;
-	background-color: #00ffff;
+	background-color: rgb(46,244,255);
 	display: inline-block;
 	float: left;
 }
 
 .right{
 	width: 40%;
-	background-color: #00ffff;
+	background-color: rgb(46,244,255);
 	display: inline-block;
 	float: right;
 }
