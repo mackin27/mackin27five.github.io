@@ -39,3 +39,15 @@ figcaption{
 	font-family: Verdana, sans-serif;
 
 }
+
+.left{
+	column-width: 48%;
+	display: inline-block;
+	float: left;
+}
+
+.right{
+	column-width: 48%
+	display:inline-block;
+	float:right;
+}
