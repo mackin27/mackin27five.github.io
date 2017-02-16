@@ -56,4 +56,11 @@ figcaption{
 
 footer p{
 	text-align: center;
+	font-stretch: ultra-expanded;
+	font-weight: bold;
+	color: #800000;
+}
+
+article{
+	font-size: 24px;
 }
