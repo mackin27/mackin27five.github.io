@@ -48,8 +48,8 @@ figcaption{
 }
 
 .right{
-	width: 40%
+	width: 40%;
 	background-color: #00ffff;
-	display:  inline-block;
+	display: inline-block;
 	float: right;
 }
