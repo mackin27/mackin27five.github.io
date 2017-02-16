@@ -53,3 +53,7 @@ figcaption{
 	display: inline-block;
 	float: right;
 }
+
+footer p{
+	text-align: center;
+}
