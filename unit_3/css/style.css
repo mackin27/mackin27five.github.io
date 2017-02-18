@@ -78,6 +78,8 @@ article{
 li {
 	font-size: 20px;
 	font-family: 'Mada', sans-serif;
+	font-style: italic;
+	font-weight: bold;
 }
 
 .nav-links{
