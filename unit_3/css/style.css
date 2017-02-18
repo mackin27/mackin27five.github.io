@@ -45,7 +45,7 @@ h3{
 	font-stretch: ultra-expanded;
 	font-family: Verdana, sans-serif;
 	display: block;
-	padding-bottom: 80px;
+	padding-bottom: 20px;
 
 }
 
@@ -71,12 +71,12 @@ footer p{
 }
 
 article{
-	font-size: 28px;
+	font-size: 18px;
 	text-align: center;
 }
 
 li {
-	font-size: 32px;
+	font-size: 18px;
 }
 
 .nav-links{
