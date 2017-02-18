@@ -1,8 +1,8 @@
 body
 
-h1, h2, p, .right, .left {
+p, .right, .left {
 	font-family: 'Roboto', sans-serif;
-	font-size: 22px;
+	font-size: 28px;
 }
 
 h1{
