@@ -1,6 +1,6 @@
 body
 
-p{
+h1, h2, p, .right, .left {
 	font-family: 'Roboto', sans-serif;
 	font-size: 22px;
 }
