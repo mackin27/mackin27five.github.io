@@ -1,7 +1,7 @@
 body
 
 p{
-	font-family: Arial, sans-serif;
+	font-family: 'Timmana', sans-serif;
 	font-size: 18px;
 }
 
@@ -43,7 +43,7 @@ h3{
 	text-decoration: underline;
 	font-size: 24px;
 	font-stretch: ultra-expanded;
-	font-family: Verdana, sans-serif;
+	font-family: , sans-serif;
 	display: block;
 	padding-bottom: 20px;
 
@@ -61,7 +61,7 @@ h3{
 	background-color: rgb(46,244,255);
 	display: inline-block;
 	float: right;
-	font-family: 'Timmana', sans-serif;
+	
 }
 
 footer p{
@@ -91,5 +91,4 @@ li {
 .mini-slogan {
 	text-align: center;
 	text-decoration: underline;
-	font-family: 'Mada', sans-serif;
-}
+}	
