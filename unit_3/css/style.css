@@ -20,9 +20,20 @@ h1{
     margin: 10px;
 }
 
+#liner{
+	text-decoration: underline;
+	font-size: 30px;
+	font-style: italic;
+	font-stretch: ultra-expanded;
+	font-weight: bold;
+	color: rgb(17,255,63);
+	display: block;
+	padding-bottom: 20px;
+
+}
+
 h2, figcaption{
 	text-align: center;
-
 }
 
 img {
@@ -48,18 +59,6 @@ h3{
     margin: 10px;
 }
 
-#liner{
-	text-decoration: underline;
-	font-size: 30px;
-	font-style: italic;
-	font-stretch: ultra-expanded;
-	font-weight: bold;
-	
-	display: block;
-	padding-bottom: 20px;
-
-}
-
 .left{
 	width: 40%;
 	background-color: rgb(46,244,255);
@@ -72,7 +71,6 @@ h3{
 	background-color: rgb(46,244,255);
 	display: inline-block;
 	float: right;
-	
 }
 
 footer p{
