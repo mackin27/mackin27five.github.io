@@ -8,6 +8,9 @@ p, .right, .left {
 h1{
 	text-decoration: underline;
 	font-size: 44px;
+	font-stretch: ultra-expanded;
+	font-weight: bold;
+	text-align: center;
 }
 
 #business{
@@ -17,7 +20,7 @@ h1{
     margin: 10px;
 }
 
-h1, h2, figcaption{
+h2, figcaption{
 	text-align: center;
 
 }
@@ -30,12 +33,6 @@ img {
 #slogan{
 	color: #800000;
 	font-weight: bold;
-}
-
-h1{
-	font-stretch: ultra-expanded;
-	font-weight: bold;
-	text-align: center;
 }
 
 h3{
