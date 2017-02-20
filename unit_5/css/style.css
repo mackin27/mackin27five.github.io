@@ -76,13 +76,18 @@ h3{
 	background-color: rgb(46,244,255);
 	display: inline-block;
 	float: left;
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 .right{
 	width: 40%;
 	background-color: rgb(46,244,255);
 	display: inline-block;
-	float: right;
+	float: right;background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 footer p{
@@ -90,11 +95,17 @@ footer p{
 	font-stretch: ultra-expanded;
 	font-weight: bold;
 	color: #800000;
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 article{
 	font-size: 18px;
 	text-align: center;
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 li {
