@@ -1,4 +1,6 @@
-body{}
+body{
+	font-size: 8px;
+}
 
 header {
 	background-color: #FFED74;
@@ -19,7 +21,7 @@ p, .right, .left {
 
 h1{
 	text-decoration: underline;
-	font-size: 44px;
+	font-size: 5em;
 	font-stretch: ultra-expanded;
 	font-weight: bold;
 	text-align: center;
@@ -34,7 +36,7 @@ h1{
 
 #liner{
 	text-decoration: underline;
-	font-size: 30px;
+	font-size: 4em;
 	font-style: italic;
 	font-stretch: ultra-expanded;
 	font-weight: bold;
@@ -148,4 +150,24 @@ li {
 	font-weight: bold;
 	text-decoration: underline;
 	font-family: 'Mada', sans-serif;
-}	
+}
+
+@media screen and (max-width: 900px){
+	body {
+		border: 3px solid purple;
+	}
+
+	h1 {
+		font-size: 8px;
+	}
+}
+
+@media screen and (max-width: 400px){
+	body {
+		border: 3px solid green;
+	}
+
+	h1 {
+		font-size: 24px;
+	}
+}
